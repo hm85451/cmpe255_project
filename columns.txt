@@ -1,0 +1,19 @@
+Columns to be included:
+        name                                                        labels
+        location state                                              x.state
+        sex of respondent                                           sexvar
+        number of days physical health is not good(per month)       physhlth
+        number of days mental health is not good(per month)         menthlth
+        Exercise in Past 30 Days                                    exerany2
+        eudcation level                                             educa
+        income level                                                income3
+        reported weight in pounds                                   weight2
+        reported height in feet and inches                          height3
+        how many cigarettes do you smoke each day?                  lcsnumcg
+        Avg alcoholic drinks per day in past 30                     avedrnk3
+        satisfaction with life                                      lsatisfy
+        How do other people usually classify you in this country?   rrclass3
+        Metropolitan Status Code                                    mscode
+        Imputed Age value collapsed above 80                        x.age80
+        Computed body mass index                                    x.bmi5
+        sleep time                                                  sleptim1
